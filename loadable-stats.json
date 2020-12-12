@@ -2,40 +2,40 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "1a70d56001234cb081e6",
+  "hash": "d45e6a6e46e7e95f423c",
   "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
   "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
   "assetsByChunkName": {
-    "vendor": "vendor.1a70d56001234cb081e6.js",
+    "vendor": "vendor.d45e6a6e46e7e95f423c.js",
     "styles": [
-      "styles.1a70d56001234cb081e6.css",
-      "styles.1a70d56001234cb081e6.js"
+      "styles.d45e6a6e46e7e95f423c.css",
+      "styles.d45e6a6e46e7e95f423c.js"
     ],
-    "pages-article~pages-episode~pages-subject~pages-time": "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
-    "app": "app.1a70d56001234cb081e6.js",
-    "pages-article": "pages-article.1a70d56001234cb081e6.js",
-    "pages-episode": "pages-episode.1a70d56001234cb081e6.js",
-    "pages-episodelist": "pages-episodelist.1a70d56001234cb081e6.js",
-    "pages-game": "pages-game.1a70d56001234cb081e6.js",
-    "pages-home": "pages-home.1a70d56001234cb081e6.js",
-    "pages-list": "pages-list.1a70d56001234cb081e6.js",
-    "pages-month": "pages-month.1a70d56001234cb081e6.js",
-    "pages-new": "pages-new.1a70d56001234cb081e6.js",
-    "pages-news": "pages-news.1a70d56001234cb081e6.js",
-    "pages-not-found": "pages-not-found.1a70d56001234cb081e6.js",
-    "pages-reg": "pages-reg.1a70d56001234cb081e6.js",
-    "pages-sign": "pages-sign.1a70d56001234cb081e6.js",
-    "pages-simple": "pages-simple.1a70d56001234cb081e6.js",
-    "pages-subject": "pages-subject.1a70d56001234cb081e6.js",
-    "pages-subject-news": "pages-subject-news.1a70d56001234cb081e6.js",
-    "pages-time": "pages-time.1a70d56001234cb081e6.js",
-    "pages-top": "pages-top.1a70d56001234cb081e6.js",
-    "pages-week": "pages-week.1a70d56001234cb081e6.js",
-    "pages-week-out": "pages-week-out.1a70d56001234cb081e6.js"
+    "pages-article~pages-episode~pages-subject~pages-time": "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
+    "app": "app.d45e6a6e46e7e95f423c.js",
+    "pages-article": "pages-article.d45e6a6e46e7e95f423c.js",
+    "pages-episode": "pages-episode.d45e6a6e46e7e95f423c.js",
+    "pages-episodelist": "pages-episodelist.d45e6a6e46e7e95f423c.js",
+    "pages-game": "pages-game.d45e6a6e46e7e95f423c.js",
+    "pages-home": "pages-home.d45e6a6e46e7e95f423c.js",
+    "pages-list": "pages-list.d45e6a6e46e7e95f423c.js",
+    "pages-month": "pages-month.d45e6a6e46e7e95f423c.js",
+    "pages-new": "pages-new.d45e6a6e46e7e95f423c.js",
+    "pages-news": "pages-news.d45e6a6e46e7e95f423c.js",
+    "pages-not-found": "pages-not-found.d45e6a6e46e7e95f423c.js",
+    "pages-reg": "pages-reg.d45e6a6e46e7e95f423c.js",
+    "pages-sign": "pages-sign.d45e6a6e46e7e95f423c.js",
+    "pages-simple": "pages-simple.d45e6a6e46e7e95f423c.js",
+    "pages-subject": "pages-subject.d45e6a6e46e7e95f423c.js",
+    "pages-subject-news": "pages-subject-news.d45e6a6e46e7e95f423c.js",
+    "pages-time": "pages-time.d45e6a6e46e7e95f423c.js",
+    "pages-top": "pages-top.d45e6a6e46e7e95f423c.js",
+    "pages-week": "pages-week.d45e6a6e46e7e95f423c.js",
+    "pages-week-out": "pages-week-out.d45e6a6e46e7e95f423c.js"
   },
   "assets": [
     {
-      "name": "app.1a70d56001234cb081e6.js",
+      "name": "app.d45e6a6e46e7e95f423c.js",
       "size": 81135,
       "chunks": [
         3
@@ -68,17 +68,6 @@
       "info": {
         "copied": true,
         "sourceFilename": "src/app/static/icon_144.png"
-      },
-      "emitted": false
-    },
-    {
-      "name": "logo/.DS_Store",
-      "size": 6148,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/app/static/logo/.DS_Store"
       },
       "emitted": false
     },
@@ -215,7 +204,7 @@
       "emitted": false
     },
     {
-      "name": "pages-article.1a70d56001234cb081e6.js",
+      "name": "pages-article.d45e6a6e46e7e95f423c.js",
       "size": 17383,
       "chunks": [
         4
@@ -230,7 +219,7 @@
       "emitted": false
     },
     {
-      "name": "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+      "name": "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
       "size": 19114,
       "chunks": [
         2
@@ -245,7 +234,7 @@
       "emitted": false
     },
     {
-      "name": "pages-episode.1a70d56001234cb081e6.js",
+      "name": "pages-episode.d45e6a6e46e7e95f423c.js",
       "size": 14066,
       "chunks": [
         5
@@ -260,7 +249,7 @@
       "emitted": false
     },
     {
-      "name": "pages-episodelist.1a70d56001234cb081e6.js",
+      "name": "pages-episodelist.d45e6a6e46e7e95f423c.js",
       "size": 18504,
       "chunks": [
         6
@@ -275,7 +264,7 @@
       "emitted": false
     },
     {
-      "name": "pages-game.1a70d56001234cb081e6.js",
+      "name": "pages-game.d45e6a6e46e7e95f423c.js",
       "size": 13707,
       "chunks": [
         7
@@ -290,7 +279,7 @@
       "emitted": false
     },
     {
-      "name": "pages-home.1a70d56001234cb081e6.js",
+      "name": "pages-home.d45e6a6e46e7e95f423c.js",
       "size": 31376,
       "chunks": [
         8
@@ -305,7 +294,7 @@
       "emitted": false
     },
     {
-      "name": "pages-list.1a70d56001234cb081e6.js",
+      "name": "pages-list.d45e6a6e46e7e95f423c.js",
       "size": 17485,
       "chunks": [
         9
@@ -320,7 +309,7 @@
       "emitted": false
     },
     {
-      "name": "pages-month.1a70d56001234cb081e6.js",
+      "name": "pages-month.d45e6a6e46e7e95f423c.js",
       "size": 10741,
       "chunks": [
         10
@@ -335,7 +324,7 @@
       "emitted": false
     },
     {
-      "name": "pages-new.1a70d56001234cb081e6.js",
+      "name": "pages-new.d45e6a6e46e7e95f423c.js",
       "size": 8003,
       "chunks": [
         11
@@ -350,7 +339,7 @@
       "emitted": false
     },
     {
-      "name": "pages-news.1a70d56001234cb081e6.js",
+      "name": "pages-news.d45e6a6e46e7e95f423c.js",
       "size": 19970,
       "chunks": [
         12
@@ -365,7 +354,7 @@
       "emitted": false
     },
     {
-      "name": "pages-not-found.1a70d56001234cb081e6.js",
+      "name": "pages-not-found.d45e6a6e46e7e95f423c.js",
       "size": 5365,
       "chunks": [
         13
@@ -380,7 +369,7 @@
       "emitted": false
     },
     {
-      "name": "pages-reg.1a70d56001234cb081e6.js",
+      "name": "pages-reg.d45e6a6e46e7e95f423c.js",
       "size": 10046,
       "chunks": [
         14
@@ -395,7 +384,7 @@
       "emitted": false
     },
     {
-      "name": "pages-sign.1a70d56001234cb081e6.js",
+      "name": "pages-sign.d45e6a6e46e7e95f423c.js",
       "size": 8898,
       "chunks": [
         15
@@ -410,7 +399,7 @@
       "emitted": false
     },
     {
-      "name": "pages-simple.1a70d56001234cb081e6.js",
+      "name": "pages-simple.d45e6a6e46e7e95f423c.js",
       "size": 36003,
       "chunks": [
         16
@@ -425,7 +414,7 @@
       "emitted": false
     },
     {
-      "name": "pages-subject-news.1a70d56001234cb081e6.js",
+      "name": "pages-subject-news.d45e6a6e46e7e95f423c.js",
       "size": 19664,
       "chunks": [
         18
@@ -440,7 +429,7 @@
       "emitted": false
     },
     {
-      "name": "pages-subject.1a70d56001234cb081e6.js",
+      "name": "pages-subject.d45e6a6e46e7e95f423c.js",
       "size": 48435,
       "chunks": [
         17
@@ -455,7 +444,7 @@
       "emitted": false
     },
     {
-      "name": "pages-time.1a70d56001234cb081e6.js",
+      "name": "pages-time.d45e6a6e46e7e95f423c.js",
       "size": 10193,
       "chunks": [
         19
@@ -470,7 +459,7 @@
       "emitted": false
     },
     {
-      "name": "pages-top.1a70d56001234cb081e6.js",
+      "name": "pages-top.d45e6a6e46e7e95f423c.js",
       "size": 9430,
       "chunks": [
         20
@@ -485,7 +474,7 @@
       "emitted": false
     },
     {
-      "name": "pages-week-out.1a70d56001234cb081e6.js",
+      "name": "pages-week-out.d45e6a6e46e7e95f423c.js",
       "size": 9292,
       "chunks": [
         22
@@ -500,7 +489,7 @@
       "emitted": false
     },
     {
-      "name": "pages-week.1a70d56001234cb081e6.js",
+      "name": "pages-week.d45e6a6e46e7e95f423c.js",
       "size": 8939,
       "chunks": [
         21
@@ -515,7 +504,7 @@
       "emitted": false
     },
     {
-      "name": "styles.1a70d56001234cb081e6.css",
+      "name": "styles.d45e6a6e46e7e95f423c.css",
       "size": 109461,
       "chunks": [
         1
@@ -529,7 +518,7 @@
       "emitted": false
     },
     {
-      "name": "styles.1a70d56001234cb081e6.js",
+      "name": "styles.d45e6a6e46e7e95f423c.js",
       "size": 7331,
       "chunks": [
         1
@@ -545,14 +534,14 @@
     },
     {
       "name": "sw.js",
-      "size": 15763,
+      "size": 15618,
       "chunks": [],
       "chunkNames": [],
       "info": {},
       "emitted": false
     },
     {
-      "name": "vendor.1a70d56001234cb081e6.js",
+      "name": "vendor.d45e6a6e46e7e95f423c.js",
       "size": 369789,
       "chunks": [
         0
@@ -564,13 +553,13 @@
         "immutable": true,
         "minimized": true,
         "related": {
-          "license": "vendor.1a70d56001234cb081e6.js.LICENSE.txt"
+          "license": "vendor.d45e6a6e46e7e95f423c.js.LICENSE.txt"
         }
       },
       "emitted": false
     },
     {
-      "name": "vendor.1a70d56001234cb081e6.js.LICENSE.txt",
+      "name": "vendor.d45e6a6e46e7e95f423c.js.LICENSE.txt",
       "size": 1113,
       "chunks": [],
       "chunkNames": [],
@@ -587,10 +576,10 @@
         3
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "app.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "app.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -604,10 +593,10 @@
         3
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "app.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "app.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -619,10 +608,10 @@
         8
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-home.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-home.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -634,10 +623,10 @@
         16
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-simple.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-simple.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -649,10 +638,10 @@
         21
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-week.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-week.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -664,10 +653,10 @@
         22
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-week-out.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-week-out.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -679,10 +668,10 @@
         15
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-sign.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-sign.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -694,10 +683,10 @@
         14
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-reg.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-reg.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -710,11 +699,11 @@
         17
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
-        "pages-subject.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
+        "pages-subject.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -726,10 +715,10 @@
         18
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-subject-news.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-subject-news.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -741,10 +730,10 @@
         9
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-list.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-list.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -756,10 +745,10 @@
         12
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-news.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-news.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -772,11 +761,11 @@
         4
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
-        "pages-article.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
+        "pages-article.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -789,11 +778,11 @@
         19
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
-        "pages-time.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
+        "pages-time.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -806,11 +795,11 @@
         5
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
-        "pages-episode.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-article~pages-episode~pages-subject~pages-time.d45e6a6e46e7e95f423c.js",
+        "pages-episode.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -822,10 +811,10 @@
         10
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-month.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-month.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -837,10 +826,10 @@
         20
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-top.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-top.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -852,10 +841,10 @@
         11
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-new.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-new.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -867,10 +856,10 @@
         6
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-episodelist.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-episodelist.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -882,10 +871,10 @@
         7
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "styles.1a70d56001234cb081e6.css",
-        "styles.1a70d56001234cb081e6.js",
-        "pages-game.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "styles.d45e6a6e46e7e95f423c.css",
+        "styles.d45e6a6e46e7e95f423c.js",
+        "pages-game.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -896,8 +885,8 @@
         13
       ],
       "assets": [
-        "vendor.1a70d56001234cb081e6.js",
-        "pages-not-found.1a70d56001234cb081e6.js"
+        "vendor.d45e6a6e46e7e95f423c.js",
+        "pages-not-found.d45e6a6e46e7e95f423c.js"
       ],
       "children": {},
       "childAssets": {}
@@ -929,11 +918,11 @@
         },
         {
           "type": "log",
-          "message": "begin globbing '/Users/dingxiaohui/Documents/web/8ana/src/app/static/icon_144.png'..."
+          "message": "begin globbing '/Users/dingxiaohui/Documents/web/8ana/src/app/static/favicon.png'..."
         },
         {
           "type": "log",
-          "message": "begin globbing '/Users/dingxiaohui/Documents/web/8ana/src/app/static/favicon.png'..."
+          "message": "begin globbing '/Users/dingxiaohui/Documents/web/8ana/src/app/static/icon_144.png'..."
         },
         {
           "type": "log",
@@ -941,15 +930,11 @@
         },
         {
           "type": "log",
-          "message": "determined that '/Users/dingxiaohui/Documents/web/8ana/src/app/static/icon_144.png' should write to 'icon_144.png'"
-        },
-        {
-          "type": "log",
           "message": "determined that '/Users/dingxiaohui/Documents/web/8ana/src/app/static/favicon.png' should write to 'favicon.png'"
         },
         {
           "type": "log",
-          "message": "determined that '/Users/dingxiaohui/Documents/web/8ana/src/app/static/logo/.DS_Store' should write to 'logo/.DS_Store'"
+          "message": "determined that '/Users/dingxiaohui/Documents/web/8ana/src/app/static/icon_144.png' should write to 'icon_144.png'"
         },
         {
           "type": "log",
@@ -1001,11 +986,11 @@
         },
         {
           "type": "log",
-          "message": "finished to process a pattern from 'src/app/static/icon_144.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'icon_144.png'"
+          "message": "finished to process a pattern from 'src/app/static/favicon.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'favicon.png'"
         },
         {
           "type": "log",
-          "message": "finished to process a pattern from 'src/app/static/favicon.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'favicon.png'"
+          "message": "finished to process a pattern from 'src/app/static/icon_144.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'icon_144.png'"
         },
         {
           "type": "log",
@@ -1026,14 +1011,6 @@
         {
           "type": "log",
           "message": "written 'favicon.png' from '/Users/dingxiaohui/Documents/web/8ana/src/app/static/favicon.png' to compilation assets"
-        },
-        {
-          "type": "log",
-          "message": "writing 'logo/.DS_Store' from '/Users/dingxiaohui/Documents/web/8ana/src/app/static/logo/.DS_Store' to compilation assets..."
-        },
-        {
-          "type": "log",
-          "message": "written 'logo/.DS_Store' from '/Users/dingxiaohui/Documents/web/8ana/src/app/static/logo/.DS_Store' to compilation assets"
         },
         {
           "type": "log",
@@ -1136,7 +1113,7 @@
           "message": "finished to adding additional assets"
         }
       ],
-      "filteredEntries": 67,
+      "filteredEntries": 63,
       "debug": false
     }
   },
