@@ -2,41 +2,41 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "c8f74351793fc8962dca",
-  "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+  "hash": "1a70d56001234cb081e6",
+  "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
   "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
   "assetsByChunkName": {
-    "vendor": "vendor.c8f74351793fc8962dca.js",
+    "vendor": "vendor.1a70d56001234cb081e6.js",
     "styles": [
-      "styles.c8f74351793fc8962dca.css",
-      "styles.c8f74351793fc8962dca.js"
+      "styles.1a70d56001234cb081e6.css",
+      "styles.1a70d56001234cb081e6.js"
     ],
-    "pages-article~pages-episode~pages-subject~pages-time": "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
-    "app": "app.c8f74351793fc8962dca.js",
-    "pages-article": "pages-article.c8f74351793fc8962dca.js",
-    "pages-episode": "pages-episode.c8f74351793fc8962dca.js",
-    "pages-episodelist": "pages-episodelist.c8f74351793fc8962dca.js",
-    "pages-game": "pages-game.c8f74351793fc8962dca.js",
-    "pages-home": "pages-home.c8f74351793fc8962dca.js",
-    "pages-list": "pages-list.c8f74351793fc8962dca.js",
-    "pages-month": "pages-month.c8f74351793fc8962dca.js",
-    "pages-new": "pages-new.c8f74351793fc8962dca.js",
-    "pages-news": "pages-news.c8f74351793fc8962dca.js",
-    "pages-not-found": "pages-not-found.c8f74351793fc8962dca.js",
-    "pages-reg": "pages-reg.c8f74351793fc8962dca.js",
-    "pages-sign": "pages-sign.c8f74351793fc8962dca.js",
-    "pages-simple": "pages-simple.c8f74351793fc8962dca.js",
-    "pages-subject": "pages-subject.c8f74351793fc8962dca.js",
-    "pages-subject-news": "pages-subject-news.c8f74351793fc8962dca.js",
-    "pages-time": "pages-time.c8f74351793fc8962dca.js",
-    "pages-top": "pages-top.c8f74351793fc8962dca.js",
-    "pages-week": "pages-week.c8f74351793fc8962dca.js",
-    "pages-week-out": "pages-week-out.c8f74351793fc8962dca.js"
+    "pages-article~pages-episode~pages-subject~pages-time": "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+    "app": "app.1a70d56001234cb081e6.js",
+    "pages-article": "pages-article.1a70d56001234cb081e6.js",
+    "pages-episode": "pages-episode.1a70d56001234cb081e6.js",
+    "pages-episodelist": "pages-episodelist.1a70d56001234cb081e6.js",
+    "pages-game": "pages-game.1a70d56001234cb081e6.js",
+    "pages-home": "pages-home.1a70d56001234cb081e6.js",
+    "pages-list": "pages-list.1a70d56001234cb081e6.js",
+    "pages-month": "pages-month.1a70d56001234cb081e6.js",
+    "pages-new": "pages-new.1a70d56001234cb081e6.js",
+    "pages-news": "pages-news.1a70d56001234cb081e6.js",
+    "pages-not-found": "pages-not-found.1a70d56001234cb081e6.js",
+    "pages-reg": "pages-reg.1a70d56001234cb081e6.js",
+    "pages-sign": "pages-sign.1a70d56001234cb081e6.js",
+    "pages-simple": "pages-simple.1a70d56001234cb081e6.js",
+    "pages-subject": "pages-subject.1a70d56001234cb081e6.js",
+    "pages-subject-news": "pages-subject-news.1a70d56001234cb081e6.js",
+    "pages-time": "pages-time.1a70d56001234cb081e6.js",
+    "pages-top": "pages-top.1a70d56001234cb081e6.js",
+    "pages-week": "pages-week.1a70d56001234cb081e6.js",
+    "pages-week-out": "pages-week-out.1a70d56001234cb081e6.js"
   },
   "assets": [
     {
-      "name": "app.c8f74351793fc8962dca.js",
-      "size": 81137,
+      "name": "app.1a70d56001234cb081e6.js",
+      "size": 81135,
       "chunks": [
         3
       ],
@@ -215,7 +215,7 @@
       "emitted": false
     },
     {
-      "name": "pages-article.c8f74351793fc8962dca.js",
+      "name": "pages-article.1a70d56001234cb081e6.js",
       "size": 17383,
       "chunks": [
         4
@@ -230,7 +230,7 @@
       "emitted": false
     },
     {
-      "name": "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
+      "name": "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
       "size": 19114,
       "chunks": [
         2
@@ -245,7 +245,7 @@
       "emitted": false
     },
     {
-      "name": "pages-episode.c8f74351793fc8962dca.js",
+      "name": "pages-episode.1a70d56001234cb081e6.js",
       "size": 14066,
       "chunks": [
         5
@@ -260,7 +260,7 @@
       "emitted": false
     },
     {
-      "name": "pages-episodelist.c8f74351793fc8962dca.js",
+      "name": "pages-episodelist.1a70d56001234cb081e6.js",
       "size": 18504,
       "chunks": [
         6
@@ -275,7 +275,7 @@
       "emitted": false
     },
     {
-      "name": "pages-game.c8f74351793fc8962dca.js",
+      "name": "pages-game.1a70d56001234cb081e6.js",
       "size": 13707,
       "chunks": [
         7
@@ -290,7 +290,7 @@
       "emitted": false
     },
     {
-      "name": "pages-home.c8f74351793fc8962dca.js",
+      "name": "pages-home.1a70d56001234cb081e6.js",
       "size": 31376,
       "chunks": [
         8
@@ -305,7 +305,7 @@
       "emitted": false
     },
     {
-      "name": "pages-list.c8f74351793fc8962dca.js",
+      "name": "pages-list.1a70d56001234cb081e6.js",
       "size": 17485,
       "chunks": [
         9
@@ -320,7 +320,7 @@
       "emitted": false
     },
     {
-      "name": "pages-month.c8f74351793fc8962dca.js",
+      "name": "pages-month.1a70d56001234cb081e6.js",
       "size": 10741,
       "chunks": [
         10
@@ -335,7 +335,7 @@
       "emitted": false
     },
     {
-      "name": "pages-new.c8f74351793fc8962dca.js",
+      "name": "pages-new.1a70d56001234cb081e6.js",
       "size": 8003,
       "chunks": [
         11
@@ -350,7 +350,7 @@
       "emitted": false
     },
     {
-      "name": "pages-news.c8f74351793fc8962dca.js",
+      "name": "pages-news.1a70d56001234cb081e6.js",
       "size": 19970,
       "chunks": [
         12
@@ -365,7 +365,7 @@
       "emitted": false
     },
     {
-      "name": "pages-not-found.c8f74351793fc8962dca.js",
+      "name": "pages-not-found.1a70d56001234cb081e6.js",
       "size": 5365,
       "chunks": [
         13
@@ -380,7 +380,7 @@
       "emitted": false
     },
     {
-      "name": "pages-reg.c8f74351793fc8962dca.js",
+      "name": "pages-reg.1a70d56001234cb081e6.js",
       "size": 10046,
       "chunks": [
         14
@@ -395,7 +395,7 @@
       "emitted": false
     },
     {
-      "name": "pages-sign.c8f74351793fc8962dca.js",
+      "name": "pages-sign.1a70d56001234cb081e6.js",
       "size": 8898,
       "chunks": [
         15
@@ -410,7 +410,7 @@
       "emitted": false
     },
     {
-      "name": "pages-simple.c8f74351793fc8962dca.js",
+      "name": "pages-simple.1a70d56001234cb081e6.js",
       "size": 36003,
       "chunks": [
         16
@@ -425,7 +425,7 @@
       "emitted": false
     },
     {
-      "name": "pages-subject-news.c8f74351793fc8962dca.js",
+      "name": "pages-subject-news.1a70d56001234cb081e6.js",
       "size": 19664,
       "chunks": [
         18
@@ -440,7 +440,7 @@
       "emitted": false
     },
     {
-      "name": "pages-subject.c8f74351793fc8962dca.js",
+      "name": "pages-subject.1a70d56001234cb081e6.js",
       "size": 48435,
       "chunks": [
         17
@@ -455,7 +455,7 @@
       "emitted": false
     },
     {
-      "name": "pages-time.c8f74351793fc8962dca.js",
+      "name": "pages-time.1a70d56001234cb081e6.js",
       "size": 10193,
       "chunks": [
         19
@@ -470,7 +470,7 @@
       "emitted": false
     },
     {
-      "name": "pages-top.c8f74351793fc8962dca.js",
+      "name": "pages-top.1a70d56001234cb081e6.js",
       "size": 9430,
       "chunks": [
         20
@@ -485,7 +485,7 @@
       "emitted": false
     },
     {
-      "name": "pages-week-out.c8f74351793fc8962dca.js",
+      "name": "pages-week-out.1a70d56001234cb081e6.js",
       "size": 9292,
       "chunks": [
         22
@@ -500,7 +500,7 @@
       "emitted": false
     },
     {
-      "name": "pages-week.c8f74351793fc8962dca.js",
+      "name": "pages-week.1a70d56001234cb081e6.js",
       "size": 8939,
       "chunks": [
         21
@@ -515,7 +515,7 @@
       "emitted": false
     },
     {
-      "name": "styles.c8f74351793fc8962dca.css",
+      "name": "styles.1a70d56001234cb081e6.css",
       "size": 109461,
       "chunks": [
         1
@@ -529,7 +529,7 @@
       "emitted": false
     },
     {
-      "name": "styles.c8f74351793fc8962dca.js",
+      "name": "styles.1a70d56001234cb081e6.js",
       "size": 7331,
       "chunks": [
         1
@@ -545,14 +545,14 @@
     },
     {
       "name": "sw.js",
-      "size": 15844,
+      "size": 15763,
       "chunks": [],
       "chunkNames": [],
       "info": {},
       "emitted": false
     },
     {
-      "name": "vendor.c8f74351793fc8962dca.js",
+      "name": "vendor.1a70d56001234cb081e6.js",
       "size": 369789,
       "chunks": [
         0
@@ -564,13 +564,13 @@
         "immutable": true,
         "minimized": true,
         "related": {
-          "license": "vendor.c8f74351793fc8962dca.js.LICENSE.txt"
+          "license": "vendor.1a70d56001234cb081e6.js.LICENSE.txt"
         }
       },
       "emitted": false
     },
     {
-      "name": "vendor.c8f74351793fc8962dca.js.LICENSE.txt",
+      "name": "vendor.1a70d56001234cb081e6.js.LICENSE.txt",
       "size": 1113,
       "chunks": [],
       "chunkNames": [],
@@ -587,10 +587,10 @@
         3
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "app.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "app.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -604,10 +604,10 @@
         3
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "app.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "app.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -619,10 +619,10 @@
         8
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-home.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-home.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -634,10 +634,10 @@
         16
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-simple.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-simple.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -649,10 +649,10 @@
         21
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-week.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-week.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -664,10 +664,10 @@
         22
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-week-out.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-week-out.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -679,10 +679,10 @@
         15
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-sign.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-sign.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -694,10 +694,10 @@
         14
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-reg.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-reg.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -710,11 +710,11 @@
         17
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
-        "pages-subject.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+        "pages-subject.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -726,10 +726,10 @@
         18
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-subject-news.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-subject-news.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -741,10 +741,10 @@
         9
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-list.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-list.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -756,10 +756,10 @@
         12
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-news.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-news.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -772,11 +772,11 @@
         4
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
-        "pages-article.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+        "pages-article.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -789,11 +789,11 @@
         19
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
-        "pages-time.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+        "pages-time.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -806,11 +806,11 @@
         5
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-article~pages-episode~pages-subject~pages-time.c8f74351793fc8962dca.js",
-        "pages-episode.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-article~pages-episode~pages-subject~pages-time.1a70d56001234cb081e6.js",
+        "pages-episode.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -822,10 +822,10 @@
         10
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-month.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-month.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -837,10 +837,10 @@
         20
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-top.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-top.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -852,10 +852,10 @@
         11
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-new.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-new.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -867,10 +867,10 @@
         6
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-episodelist.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-episodelist.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -882,10 +882,10 @@
         7
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "styles.c8f74351793fc8962dca.css",
-        "styles.c8f74351793fc8962dca.js",
-        "pages-game.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "styles.1a70d56001234cb081e6.css",
+        "styles.1a70d56001234cb081e6.js",
+        "pages-game.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -896,8 +896,8 @@
         13
       ],
       "assets": [
-        "vendor.c8f74351793fc8962dca.js",
-        "pages-not-found.c8f74351793fc8962dca.js"
+        "vendor.1a70d56001234cb081e6.js",
+        "pages-not-found.1a70d56001234cb081e6.js"
       ],
       "children": {},
       "childAssets": {}
@@ -1001,11 +1001,11 @@
         },
         {
           "type": "log",
-          "message": "finished to process a pattern from 'src/app/static/favicon.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'favicon.png'"
+          "message": "finished to process a pattern from 'src/app/static/icon_144.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'icon_144.png'"
         },
         {
           "type": "log",
-          "message": "finished to process a pattern from 'src/app/static/icon_144.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'icon_144.png'"
+          "message": "finished to process a pattern from 'src/app/static/favicon.png' using '/Users/dingxiaohui/Documents/web/8ana/src/app/static' context to 'favicon.png'"
         },
         {
           "type": "log",
@@ -1144,7 +1144,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {
         "HtmlWebpackPlugin_0": "__child-HtmlWebpackPlugin_0"
@@ -1152,7 +1152,7 @@
       "assets": [
         {
           "name": "__child-HtmlWebpackPlugin_0",
-          "size": 5842,
+          "size": 5841,
           "chunks": [
             0
           ],
@@ -1201,7 +1201,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {
         "__offline_serviceworker": "__offline_serviceworker"
@@ -1209,7 +1209,7 @@
       "assets": [
         {
           "name": "__offline_serviceworker",
-          "size": 8577,
+          "size": 8576,
           "chunks": [
             0
           ],
@@ -1260,7 +1260,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1302,7 +1302,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1344,7 +1344,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1386,7 +1386,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1428,7 +1428,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1470,7 +1470,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1512,7 +1512,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1554,7 +1554,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1596,7 +1596,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1638,7 +1638,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1680,7 +1680,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1722,7 +1722,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1764,7 +1764,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1806,7 +1806,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1848,7 +1848,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1890,7 +1890,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1932,7 +1932,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -1974,7 +1974,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2016,7 +2016,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2058,7 +2058,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2100,7 +2100,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2142,7 +2142,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2184,7 +2184,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2226,7 +2226,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2268,7 +2268,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2310,7 +2310,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2352,7 +2352,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2394,7 +2394,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2436,7 +2436,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2478,7 +2478,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2520,7 +2520,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2562,7 +2562,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2604,7 +2604,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2646,7 +2646,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2688,7 +2688,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2730,7 +2730,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2772,7 +2772,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2814,7 +2814,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2856,7 +2856,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2898,7 +2898,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2940,7 +2940,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -2982,7 +2982,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -3024,7 +3024,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -3066,7 +3066,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -3108,7 +3108,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
@@ -3150,7 +3150,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common//",
+      "publicPath": "//cdn.jsdelivr.net/gh/8ana/common/",
       "outputPath": "/Users/dingxiaohui/Documents/web/8ana/dist/client",
       "assetsByChunkName": {},
       "assets": [],
